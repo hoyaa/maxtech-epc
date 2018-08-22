@@ -1,0 +1,1 @@
+﻿itms-services://?action=download-manifest&url=https://raw.githubusercontent.co m/hoyaa/maxtech-epc/master/matchtech.epc.plist
